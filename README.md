@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to programming and technology.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [mr.siwakrit@gmail.com](mailto:mr.siwakrit@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** React, Node.js, Express
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React, Next.js ，Node.js, Express , Nest.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Tools:** Git, Docker
 
 ## 📈 GitHub Stats
 
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siwakrit/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/siwakrit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siwakrit-pattaveesin/)
 
 Thanks for visiting my profile! Have a great day! 😄
